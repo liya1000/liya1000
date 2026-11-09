@@ -1,12 +1,7 @@
 **Hi! I am Liya**
 
-I work in the messy middle of e-commerce data between the business teams asking the questions and the systems holding the answers. My job is to make sure both sides actually meet.
+I am a BI Analyst with 3+ years of experience building data pipelines, data models and dashboards that turn large-scale data into clear, actionable insights.
 
-I have owned the analytics function at a B2B SaaS Martech scaleup
-
-- building production dashboards,
-- writing complex SQL pipelines
-- modelling customer behaviour
-- and presenting findings directly to clients and C-suite stakeholders.
+Owned the analytics layer end-to-end for 55+ ecommerce DTC clients, including dbt models, automated tests and self-service reporting for operations and C-suite stakeholders. Strong in SQL, Python, data modelling and QuickSight/Power BI.
 
 I have never wanted to choose between the business side and the technical work. I want both.
